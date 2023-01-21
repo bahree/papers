@@ -12,3 +12,4 @@ This is a list of all the papers that I like to read. These are more of personal
 | 4 | Cramming: Training a Language Model on a Single GPU in One Day |     | https://arxiv.org/abs/2212.14034 |
 | 5 | DeepSpeed Data Efficiency: A composable library that makes better use of data, increases training efficiency, and improves model quality |     | https://www.deepspeed.ai/2022/12/11/data-efficiency.html |
 | 6 | LoRA: Low-Rank Adaptation of Large Language Models |     | https://github.com/microsoft/LoRA |
+| 7 | How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection |     | https://arxiv.org/abs/2301.07597 |

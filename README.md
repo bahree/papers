@@ -19,3 +19,4 @@ This is a list of all the papers that I like to read. These are more of personal
 | 11 | Turing-NLG: A 17-billion-parameter language model by Microsoft | Model parallelism    | https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/ |
 | 12 | Talking About Large Language Models | LLMs | https://arxiv.org/abs/2212.03551 |
 | 13 | Language Is Not All You Need: Aligning Perception with Language Models | LLMs | https://arxiv.org/abs/2302.14045 |
+| 14 | Toolformer: Language Models Can Teach Themselves to Use Tools | LLMs Search | https://arxiv.org/abs/2302.04761 |

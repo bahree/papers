@@ -17,3 +17,4 @@ This is a list of all the papers that I like to read. These are more of personal
 | 9 | GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism | Model parallelism    | https://arxiv.org/abs/1811.06965 |
 | 10 | DeepSpeed: Extreme-scale model training for everyone | Model parallelism    | https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/ |
 | 11 | Turing-NLG: A 17-billion-parameter language model by Microsoft | Model parallelism    | https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/ |
+| 12 | Talking About Large Language Models | LLMs | https://arxiv.org/abs/2212.03551 |

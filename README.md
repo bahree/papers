@@ -20,3 +20,4 @@ This is a list of all the papers that I like to read. These are more of personal
 | 12 | Talking About Large Language Models | LLMs | https://arxiv.org/abs/2212.03551 |
 | 13 | Language Is Not All You Need: Aligning Perception with Language Models | LLMs | https://arxiv.org/abs/2302.14045 |
 | 14 | Toolformer: Language Models Can Teach Themselves to Use Tools | LLMs Search | https://arxiv.org/abs/2302.04761 |
+| 15 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | LLMs Search | https://arxiv.org/abs/2201.11903 |

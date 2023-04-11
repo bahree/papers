@@ -22,3 +22,4 @@ This is a list of all the papers that I like to read. These are more of personal
 | 14 | Toolformer: Language Models Can Teach Themselves to Use Tools | LLMs Search | https://arxiv.org/abs/2302.04761 |
 | 15 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | LLMs Search | https://arxiv.org/abs/2201.11903 |
 | 16 | Sparks of Artificial General Intelligence: Early experiments with GPT-4 | GPT4 Capabilities and Limitations | https://arxiv.org/abs/2303.12712 |
+| 17 | On the Opportunities and Risks of Foundation Models | Foundational models | https://arxiv.org/pdf/2108.07258.pdf |
